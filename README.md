@@ -202,33 +202,12 @@ GitHub| Source Code Repository
 
 ---
 
-📂 Project Structure
+## 📁 Project Structure
 
-techsupport/
-│
-├── db.php
-├── register.php
-├── login.php
-├── dashboard.php
-├── create_ticket.php
-├── tickets.php
-├── view_ticket.php
-├── admin.php
-├── update_ticket.php
-├── logout.php
-│
-├── screenshots/
-│   ├── 01-registration.png
-│   ├── 02-login.png
-│   ├── 03-dashboard.png
-│   ├── 04-create-ticket.png
-│   ├── 05-my-tickets.png
-│   ├── 06-ticket-details.png
-│   ├── 07-engineer-dashboard.png
-│   ├── 08-ticket-assignment.png
-│   └── 09-status-update.png
-│
-└── README.md
+- PHP files – Registration, Login, Dashboard and Ticket Management
+- `db.php` – Database connection
+- `screenshots/` – Project screenshots
+- `README.md` – Project documentation
 
 ## 📸 Screenshots
 
