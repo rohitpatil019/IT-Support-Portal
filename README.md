@@ -235,56 +235,56 @@ techsupport/
 ### 1. Registration Page
 The Registration Page allows new users to create an account by entering their name, email, password, and other required details.
 
-![Registration Page](screenshots/01-registration.png)
+![Registration Page]
 
 ---
 
 ### 2. Login Page
 The Login Page allows registered users to securely log in to the IT Support Portal using their email and password.
 
-![Login Page](screenshots/02-login.png)
+![Login Page]
 
 ---
 
 ### 3. User Dashboard
 The User Dashboard provides users with an overview of their support activities and available ticket management options.
 
-![User Dashboard](screenshots/03-dashboard.png)
+![User Dashboard]
 
 ---
 
 ### 4. Create Support Ticket
 Users can create a new IT support ticket by entering the issue title, description, category, and priority.
 
-![Create Ticket](screenshots/04-create-ticket.png)
+![Create Ticket]
 
 ---
 
 ### 5. My Tickets
 The My Tickets page displays tickets created by the logged-in user along with their status, priority, and ticket information.
 
-![My Tickets](screenshots/05-my-tickets.png)
+![My Tickets]
 
 ---
 
 ### 6. Ticket Details
 The Ticket Details page provides complete information about a selected support ticket, including the issue description, category, priority, status, and assigned engineer.
 
-![Ticket Details](screenshots/06-ticket-details.png)
+![Ticket Details]
 
 ---
 
 ### 7. Engineer Dashboard
 The Engineer Dashboard allows support engineers to view assigned tickets and manage user-reported IT issues.
 
-![Engineer Dashboard](screenshots/07-engineer-dashboard.png)
+![Engineer Dashboard]
 
 ---
 
 ### 8. Ticket Status Update
 Support engineers can update the status of assigned tickets, such as Open, In Progress, Resolved, or Closed.
 
-![Status Update](screenshots/08-status-update.png)
+![Status Update]
 
 ---
 
