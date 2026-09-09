@@ -488,10 +488,6 @@ Application directory:
 
 /var/www/html/techsupport
 
-Website:
-
-http://YOUR-EC2-PUBLIC-IP/techsupport/
-
 ---
 
 🔍 Service Verification
